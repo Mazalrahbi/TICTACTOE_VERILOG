@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Dec  6 15:10:40 2021
+# Process ID: 22064
+# Current directory: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19116 C:\Users\ALRah\Desktop\PROJECT 524\Tic_tac_toe\Tic_tac_toe.xpr
+# Log file: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe/vivado.log
+# Journal file: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe/Tic_tac_toe.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_tic_tac_toe.tcl
+run all
+close_sim

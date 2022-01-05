@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Dec  5 15:04:03 2021
+# Process ID: 18256
+# Current directory: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe/Tic_tac_toe.runs/impl_1
+# Command line: vivado.exe -log tic_tac_toe.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tic_tac_toe.tcl -notrace
+# Log file: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe/Tic_tac_toe.runs/impl_1/tic_tac_toe.vdi
+# Journal file: C:/Users/ALRah/Desktop/PROJECT 524/Tic_tac_toe/Tic_tac_toe.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source tic_tac_toe.tcl -notrace
